@@ -48,6 +48,8 @@ D:\More\FruitShop\FruitShop\bin\roslyn\vbc.rsp
 D:\More\FruitShop\FruitShop\bin\roslyn\VBCSCompiler.exe
 D:\More\FruitShop\FruitShop\bin\roslyn\VBCSCompiler.exe.config
 D:\More\FruitShop\FruitShop\bin\Antlr3.Runtime.dll
+D:\More\FruitShop\FruitShop\bin\EntityFramework.dll
+D:\More\FruitShop\FruitShop\bin\EntityFramework.SqlServer.dll
 D:\More\FruitShop\FruitShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\More\FruitShop\FruitShop\bin\Microsoft.Web.Infrastructure.dll
 D:\More\FruitShop\FruitShop\bin\Newtonsoft.Json.dll
@@ -59,6 +61,8 @@ D:\More\FruitShop\FruitShop\bin\System.Web.WebPages.Deployment.dll
 D:\More\FruitShop\FruitShop\bin\System.Web.WebPages.dll
 D:\More\FruitShop\FruitShop\bin\System.Web.WebPages.Razor.dll
 D:\More\FruitShop\FruitShop\bin\WebGrease.dll
+D:\More\FruitShop\FruitShop\bin\EntityFramework.xml
+D:\More\FruitShop\FruitShop\bin\EntityFramework.SqlServer.xml
 D:\More\FruitShop\FruitShop\bin\System.Web.Helpers.xml
 D:\More\FruitShop\FruitShop\bin\System.Web.Mvc.xml
 D:\More\FruitShop\FruitShop\bin\System.Web.Optimization.xml
